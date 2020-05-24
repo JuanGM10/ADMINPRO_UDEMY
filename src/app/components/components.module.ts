@@ -1,6 +1,6 @@
 import { FormsModule } from '@angular/forms';
 
-import { NgModule, Component } from '@angular/core';
+import { NgModule } from '@angular/core';
 import { IncrementadorComponent } from './incrementador/incrementador.component';
 
 @NgModule({
